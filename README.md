@@ -1,12 +1,13 @@
 ## 👋 About Section
 
 ### Hi there! I'm Jose Antonio Menossi, fullstack developer passionate in finding new inovative solutions
+### Right now I'm studying Backend Developement and Data Engineering 🖥️🛠️
 
 ## 🎯 Tech Stack  
 
 ### 💻 Languages  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,c,java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,c" height="40"/>
 </div>
 
 ### ⚙️ Back-end & Frameworks  
@@ -16,7 +17,7 @@
 
 ### 🌐 Front-end  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,vue,bootstrap,tailwind,vite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" height="40"/>
 </div>
 
 ### 🗄 Database
@@ -41,7 +42,7 @@ src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
 </div>
 
 ## 📊 GitHub Stats  
-<div align="center">
+<div align="center" display>
   <img width="400rem" src="https://github-readme-stats.vercel.app/api?username=MenossiJose&theme=synthwave&hide_rank=false" />
   <br>
   <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenossiJose&langs_count=8&theme=synthwave&layout=donut" />
