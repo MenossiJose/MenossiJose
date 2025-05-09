@@ -17,7 +17,7 @@
 
 ### 🌐 Front-end  
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vue,vite" height="40"/>
 </div>
 
 ### 🗄 Database
