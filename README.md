@@ -23,7 +23,7 @@
 ### 🗄 Database
 <div align="left">
   <img
-src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
+src="https://skillicons.dev/icons?i=postgres,mongodb" height="40"/>
 </div>
 
 ### 🛠️ Tools  
